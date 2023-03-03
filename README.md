@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>For me, listen Rain on Bus is wonderful.🚴‍♂️</h2>
+    <h2>For me, listen Rain in Bus is wonderful.🚴‍♂️</h2>
     <h4>Mine Github</h4>
     <h4>▼</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=Rain-Bus&show_icons=true&count_private=true"/>
